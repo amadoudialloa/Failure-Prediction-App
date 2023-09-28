@@ -52,7 +52,7 @@ Machine Learning Model: Behind the scenes, a robust Random Forest Classifier mod
 
 Real-Time Predictions: Users enter current sensor data into the app, such as temperature, pressure, vibration, and voltage. When they click the "Predict" button, the app sends this data to the machine learning model for analysis.
 
-Predictions: The model processes the input data and returns a prediction, classifying it as either "Failure" or "No Failure." This prediction is accompanied by a confidence score, allowing users to assess the reliability of the outcome.
+Predictions: The model processes the input data and returns a prediction, classifying it as either "Failure" or "No Failure."
 
 Key Benefits:
 
